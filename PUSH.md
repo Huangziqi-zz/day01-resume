@@ -1,5 +1,10 @@
 # 首次推送步骤
 
+> **状态：已完成（2026-10-19）**
+> 仓库地址：https://github.com/Huangziqi-zz/day01-resume
+> 日常提交只需要三条命令：`git add .` → `git commit -m "feat: 今天做了什么"` → `git push`。
+> 下面内容留作备用，换电脑或新建仓库时再照着走。
+
 本地仓库已经初始化并完成首次提交，接下来只差把代码推到 GitHub。
 
 ## 第 1 步：先在 GitHub 建空仓库
